@@ -1,6 +1,6 @@
 #nim-libjwt
 
-Nim binding for [libjwt](https://github.com/benmcollins/libjwt) C library.
+Nim bindings for [libjwt](https://github.com/benmcollins/libjwt) C library.
 
 ## Install
 
